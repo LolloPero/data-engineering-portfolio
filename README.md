@@ -7,7 +7,7 @@ This portfolio demonstrates experience across the full data engineering lifecycl
 - Data Lake: *Google Cloud Storage*
 - Data Warehouse: *Google BigQuery*
 - IaC: *Terraform*
-- Data Transformation: *dbt*
+- Data Transformation: *dbt*, *PySpark*
 - Workflow orchestration: *Kestra*, *Airflow*
 - Containerization: *Docker*
 
@@ -28,4 +28,29 @@ ETL pipeline orchestrated with Kestra that extracts *.json* files data from [GH 
 - *BigQuery* (data warehouse)
 - *dbt* (data transformation)
 - *Looker Studio* (data visualization)
+
+
+### [Crypto Timeseries](https://github.com/LolloPero/Data-Science-portfolio/tree/main/api_etl_database)
+
+#### description
+
+Simple ETL pipeline orchestrated with *AirFlow*. Reads data from from [CoinCap](https://pro.coincap.io) api and loads data into a *postresql* database using a *PySpark* cluster.
+
+#### tech stack
+
+- *AirFlow* (workflow orchestration)
+- *PySpark* (data transformation)
+- *Postgresql* (database)
+
+
+### [Single Guide RNA pipeline](https://github.com/LolloPero/sgRNA)
+
+#### description
+
+This repository contains a *Nextflow* pipeline that takes a file of sgRNA sequences and analyzes where they align in the human genome (GRCh38). It includes steps to convert and compare gene information, and creates a simple gene expression matrix using data from two breast cancer (TCGA-BRCA) samples.
+
+#### tech stack
+
+- *AirFlow* (workflow orchestration)
+- *Docker* (containerization)
 
