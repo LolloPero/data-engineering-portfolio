@@ -51,6 +51,6 @@ This repository contains a *Nextflow* pipeline that takes a file of sgRNA sequen
 
 #### tech stack
 
-- *AirFlow* (workflow orchestration)
+- *Nextflow* (workflow orchestration)
 - *Docker* (containerization)
 
