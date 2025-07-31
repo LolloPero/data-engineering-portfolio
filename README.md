@@ -1,4 +1,4 @@
-![](docs/data_engineering_projects.png)
+![](docs/building_data_engineer_portfolio.png)
 
 # data-engineering-portfolio
 A collection of data engineering projects showcasing my skills in building robust, scalable, and secure data pipelines using modern tools and cloud platforms. 
