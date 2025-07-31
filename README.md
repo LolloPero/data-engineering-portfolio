@@ -1,6 +1,6 @@
+# data-engineering-portfolio
 ![](docs/building_data_engineer_portfolio.png)
 
-# data-engineering-portfolio
 A collection of data engineering projects showcasing my skills in building robust, scalable, and secure data pipelines using modern tools and cloud platforms. 
 
 This portfolio demonstrates experience across the full data engineering lifecycle — from data ingestion and transformation to orchestration, governance, and monitoring.
